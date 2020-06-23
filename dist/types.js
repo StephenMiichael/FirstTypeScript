@@ -38,3 +38,8 @@ var cart;
 cart = {
     key: "bar"
 };
+// Type Inference 
+var message2 = "Mensagem definida";
+window.addEventListener("click", function (e) {
+    console.log(e.target);
+});
