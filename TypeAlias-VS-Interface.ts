@@ -1,0 +1,3 @@
+type GameT = {
+    title: string;
+};
